@@ -1,3 +1,11 @@
+Citi Bike System Data
+
+An analysis of: 
+
+(a)  How morning and evening peak times affect hiring behaviours in the Jersey City region.
+(b)  The hiring behaviours of casual customers and members in the Jersey City region.
+(c)  Station actitivity in the Jersey City region.
+
 Slide 1 Findings:
 
 There is slightly higher usage of the Citi Bike system during PM-Peak than AM-Peak.

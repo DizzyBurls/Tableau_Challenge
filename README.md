@@ -2,6 +2,9 @@
 
 By Chris Burley
 
+I have decided to focus on phenomena occuring in the Jersey City region of New York.
+I thought analysing a 'branch' of the Citi Bike business would be of interest to stakeholders.
+
 Please finding the following in this repository:
 
 (1) A 'Resources' folder which houses all of the raw data from the Citi Bike website.
