@@ -1,0 +1,79 @@
+Slide 1 Findings:
+
+There is slightly higher usage of the Citi Bike system during PM-Peak than AM-Peak.
+Usage is approximately 3 times higher in Off-Peak times.
+
+Slide 2 and 3 Findings:
+
+In each of the past 4 years AM-Peak usage has been lower than PM-Peak usage.
+The gap between the two has widened consistently year on year, though. 
+In 2019, that gap represented just 3% of overall usage, but in 2022 it has ballooned out to more than 11%. 
+
+The Off-Peak usage of the system has also grown. It now represents approximately 68% of all system usage, up from 57% in 2019.
+
+Slide 4 and 5 Findings:
+
+In each of the past 4 years the majority of Citi Bike users have been its members.
+The disparity in casual user engagements with the system and member engagements is falling quite quickly.
+In 2019, only 2% of all hires were by casuals. That has risen, year on year, to 25%.
+
+Please note that overall usage of the system will likely have been impacted by the coronavirus pandemic in January 2021.
+That is why I have opted to speak in terms of percentage usage, rather than referencing aggregate usage numbers.
+
+Slide 6 Findings:
+
+Casual users of the Citi Bike system have shown a greater propensity to hire in Off-Peak times than members.
+Between 75% and 78% of their usage is in Off-Peak periods. 
+This behaviour has been very consistent, year on year, since the beginning of 2019.
+
+Members are tending to use the service outside of peak times with increasing regularly since 2019.
+Originally Off-Peak usage represented just 57% of their engagement with Citi Bike, but now it is up to 67%.
+Unsurprisingly, given the findings in slides 2 and 3, PM usage is slightly more prevalent than AM usage in both member and casual classes.
+
+Slide 7 and 8 Findings:
+
+The highest-frequency start-stations are very often amongst the highest-frequency end-stations activity in 2022.
+The 4 busiest starting points were also the 4 busiest ending points for travellers using the system.
+Hamilton Park was 6th busiest as a start-station and 5th busiest as an end-station.
+Newport Parkway was 5th busiest as a start-station and 6th busiest as an end-station.
+The actual start and end-station activity figures are generally within approximately 10% of one another from location to location.
+In some instances, like Grove St Path, the location was used slightly more as an end-station than a start.
+In others, like Sip Avenue, the reverse was seen. There was little consistency across all locations.
+ 
+Slide 9 Findings:
+
+In terms of usage during the AM-Peak, there is little consistency between the highest-ranking start-stations and highest-ranking end-stations.
+Only 2 of the 7 most utilised start-stations, Grove Street Path and Hoboken Terminal (River Street and Hudson Place), appear on the list of most utilised end-stations.
+The most used start-station, Hamilton Park, is only the 10th most popular end-station.
+Bergen Avenue, Newport Parkway and Brunswick (and 6th) are ranked 3rd, 4th and 5th based on start-station activity.
+These stations appear 62nd, 16th and 49th based on end-station activity, respectively.
+The top-ranked end-point locations show much higher usage (more than double) that of the top-ranked starting point locations.
+
+This is to be expected as people using this service to get to work or school are likely to be headed to education, business or transport hubs in the morning.
+The high frequency start-station locations based on AM-Peak usage are likely to be more residential in nature.
+The build-up of bikes in high-frequency end-point locations may be problematic if they are not redispersed by customers during Off-Peak and PM-Peak times.
+Further analysis would not be complicated and is advised.
+
+Slide 10 Findings:
+
+In terms of PM-Peak, the reverse phenomenon is observed as compared to what was seen in slide 9.
+The high-frequency start-stations recorded almost double to usage of the top-ranked end-stations.
+Again, this is likely due to people moving from learning and business hubs to residential regions.
+4 of the top 7 busiest start-stations were also in the top 7 most used end-stations during PM-Peak.
+This increase (up from 2 on the previous slide) is likely due to customers hiring bikes during PM-Peak to attend evening shift-work in business hubs as other users ride home.
+
+Slide 11 Findings:
+
+In terms of Off-Peak usage, there is remarkable similarity in the top 7 start-stations by activity and the top 7 end-stations.
+6 of the 7 spots are occupied by the same stations.
+This is likely because tourists and sight-seers are more inclined to stay in the aforementioned hubs when riding bikes. 
+They also may be more likely to end their usage where they started.
+Again, further analysis would not be complicated and is advised.
+
+Slide 12 Findings:
+
+In January of 2022 the average duration of a casual user's ride dropped significantly.
+Analysis of Feb-June 2022 data is strongly advised to see if a new pattern of casual user behaviour is emerging.
+
+
+ 
