@@ -8,8 +8,8 @@ An analysis of:
 
 Slide 1 Findings:
 
-There is slightly higher usage of the Citi Bike system during PM-Peak than AM-Peak.
-Usage is approximately 3 times higher in Off-Peak times.
+There is slightly higher usage of the Citi Bike system during PM-Peak than AM-Peak. This may be temperature related. The morning coldness may prevent pospective users of the system from hiring a bike.
+Usage is approximately 3 times higher in Off-Peak times. The system may predominently be being utilised by tourists and sightseers at present. 
 
 Slide 2 and 3 Findings:
 
@@ -24,6 +24,8 @@ Slide 4 and 5 Findings:
 In each of the past 4 years the majority of Citi Bike users have been its members.
 The disparity in casual user engagements with the system and member engagements is falling quite quickly.
 In 2019, only 2% of all hires were by casuals. That has risen, year on year, to 25%.
+The rise in casual users might be due to previous members not using the system as regularly as they anticipated. Perhaps they are favouring casual usage. 
+It is also possible that membership is seen as too expensive and that people feel more comfortable with the "user-pays" model. Further analysis is needed. 
 
 Please note that overall usage of the system will likely have been impacted by the coronavirus pandemic in January 2021.
 That is why I have opted to speak in terms of percentage usage, rather than referencing aggregate usage numbers.
@@ -80,7 +82,8 @@ Again, further analysis would not be complicated and is advised.
 
 Slide 12 Findings:
 
-In January of 2022 the average duration of a casual user's ride dropped significantly.
+In January of 2022 the average duration of a casual user's ride dropped significantly. 
+This supports the theory that lapsed members who used the system for their daily commute are favouring casual usage.
 Analysis of Feb-June 2022 data is strongly advised to see if a new pattern of casual user behaviour is emerging.
 
 
